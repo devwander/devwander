@@ -1,16 +1,12 @@
-### Hi there 👋
+# Wanderson José
 
-<!--
-**devwander/devwander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi guys 👋
+I am currently an aspiring dev who is looking for new experiences.
+I love solving problems :sparkling_heart:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:construction_worker: I am not currently working in any company, but I develop projects as a way of learning (check out my repositories).
+:smiley: I can help you with the construction of your projects! Although I am not a Jr I still guarantee that I will make an effort !!!
+:computer: My stack: Javascript Web, Nodejs.
+💬 About me: I love technology and I can say that finding out more about it is one of my favorite hobbies, I enjoy games and podcasts.
+:email: Please contact me: [![Linkedin Badge](https://img.shields.io/badge/-WandersonJosé-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wanderson-josé-1aa2261a2)](https://www.linkedin.com/in/wanderson-josé-1aa2261a2/)
+[![Gmail Badge](https://img.shields.io/badge/-wanderjdev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wanderjdev@gmail.com)]((mailto:wanderjdev@gmail.com)
