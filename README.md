@@ -14,5 +14,4 @@ I love solving problems :sparkling_heart:
 💬 About me: I love technology and I can say that finding out more about it is one of my favorite hobbies, I enjoy games and podcasts.
 
 :email: Please contact me: [![Linkedin Badge](https://img.shields.io/badge/-WandersonJosé-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wanderson-josé-1aa2261a2)](https://www.linkedin.com/in/wanderson-josé-1aa2261a2/)
-
 [![Gmail Badge](https://img.shields.io/badge/-wanderjdev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wanderjdev@gmail.com)](mailto:wanderjdev@gmail.com)
