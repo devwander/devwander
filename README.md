@@ -5,7 +5,7 @@ I am currently an aspiring dev who is looking for new experiences.
 I love solving problems :sparkling_heart:
 
 
-:construction_worker: I'm currently working for a company, but who knows, I can't help you(check out my repositories).
+:construction_worker: I am not currently working in any company, but i develop projects as a way of learning (check out my repositories).
 
 :smiley: I can help you in building your projects! Although I am not a Jr, I still guarantee that I will try !!!
 
