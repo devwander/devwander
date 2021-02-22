@@ -17,6 +17,5 @@ I love solving problems :sparkling_heart:
 [![Gmail Badge](https://img.shields.io/badge/-wanderjdev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wanderjdev@gmail.com)](mailto:wanderjdev@gmail.com)
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devwander&layout=compact"/>
  <img src="https://github-readme-stats.vercel.app/api?username=devwander&show_icons=true&theme=radical" width="425px" />
  </p>
