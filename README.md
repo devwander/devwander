@@ -15,3 +15,8 @@ I love solving problems :sparkling_heart:
 
 :email: Please contact me: [![Linkedin Badge](https://img.shields.io/badge/-WandersonJosé-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wanderson-josé-1aa2261a2)](https://www.linkedin.com/in/wanderson-josé-1aa2261a2/)
 [![Gmail Badge](https://img.shields.io/badge/-wanderjdev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wanderjdev@gmail.com)](mailto:wanderjdev@gmail.com)
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devwander&layout=compact"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=devwander&show_icons=true&theme=radical" width="425px" />
+ </p>
