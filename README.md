@@ -19,5 +19,3 @@ I love solving problems :sparkling_heart:
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=devwander&show_icons=true&theme=radical" width="425px" />
  </p>
-
-![Snake animation](https://github.com/devwander/rafaballerini/blob/output/github-contribution-grid-snake.svg)
