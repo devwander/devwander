@@ -60,3 +60,5 @@ In my free time I like to play something, I practice karate and sometimes I also
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=devwander&show_icons=true&theme=radical" width="425px" />
 </p>
+
+[![@devwander's Holopin board](https://holopin.me/devwander)](https://holopin.io/@devwander)
