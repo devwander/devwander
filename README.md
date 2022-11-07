@@ -1,4 +1,4 @@
-Last updated, Monday, November 7 at 3:28 PM GMT-3
+Last updated, Monday, November 7 at 5:53 PM GMT-3
 
 Hi! I'm Wanderson José, I like programming because it allows me to create things and transform reality 😁.
 In my free time I like to play something, I practice karate and sometimes I also play volleyball.
@@ -60,5 +60,3 @@ In my free time I like to play something, I practice karate and sometimes I also
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=devwander&show_icons=true&theme=radical" width="425px" />
 </p>
-
-[![@devwander's Holopin board](https://holopin.me/devwander)](https://holopin.io/@devwander)
