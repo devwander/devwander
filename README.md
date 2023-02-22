@@ -1,6 +1,21 @@
 Hi! I'm Wanderson José, I like programming because it allows me to create things and transform reality 😁.
 In my free time I like to play something, I practice karate and sometimes I also play volleyball.
 
+I also like to solve challenges!
+
+<a class="header-badge" target="_blank" href="https://www.codewars.com/users/devwander">
+    <img alt="Codewars badge" src="https://www.codewars.com/users/devwander/badges/micro">
+</a>
+
+<br>
+
+### 🌐 Socials:
+
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wander.codes) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wanderson-josé)
+
+
 ## 🧑🏾‍💻 My Stack
 
 <p>
@@ -9,6 +24,7 @@ In my free time I like to play something, I practice karate and sometimes I also
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
 </p>
@@ -20,6 +36,7 @@ In my free time I like to play something, I practice karate and sometimes I also
 <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="REACT" width="40" height="40"/>
 </p>
 
 <p> 
@@ -46,19 +63,19 @@ In my free time I like to play something, I practice karate and sometimes I also
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsoft SQL SERVER" width="40" height="40"/>
 </p>
 
-😬 I also like to solve challenges!
+<p> 
+    <h4>Others</h4> 
+</p>
 
-<a class="header-badge" target="_blank" href="https://www.codewars.com/users/devwander">
-    <img alt="Codewars badge" src="https://www.codewars.com/users/devwander/badges/micro">
-</a>
-
-:email: Please contact me: 
-
-[![Linkedin Badge](https://img.shields.io/badge/-WandersonJosé-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wanderson-josé-1aa2261a2)](https://www.linkedin.com/in/wanderson-josé-1aa2261a2/)
-[![Gmail Badge](https://img.shields.io/badge/-josewanderson173@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josewanderson173@gmail.com)](mailto:josewanderson173@gmail.com)
+<p align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" alt="Heroku" width="40" height="40"/>
+</p>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=devwander&show_icons=true&theme=radical" width="425px" />
+    </br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devwander&theme=dark&hide_border=false" width="425px" />
 </p>
 
 [![@devwander's Holopin board](https://holopin.me/devwander)](https://holopin.io/@devwander)
